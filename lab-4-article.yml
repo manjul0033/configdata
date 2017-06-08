@@ -1,2 +1,3 @@
 ---
-article-words: a,an,the
+#article-words: a,an,the
+article-words: A,AN,THE
