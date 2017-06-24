@@ -1,9 +1,9 @@
 ## Cloudant-Microservice-Local
-#username: 75d3fd99-6142-46e7-9ad4-d156d9e63e86-bluemix
-#password: a77e8434b683bf80221e6e2557cc40e46e29b2e485bbaf45743e32798a1e31ad
-#host: https://75d3fd99-6142-46e7-9ad4-d156d9e63e86-bluemix.cloudant.com
+username: 75d3fd99-6142-46e7-9ad4-d156d9e63e86-bluemix
+password: a77e8434b683bf80221e6e2557cc40e46e29b2e485bbaf45743e32798a1e31ad
+host: https://75d3fd99-6142-46e7-9ad4-d156d9e63e86-bluemix.cloudant.com
 
 ## Cloudant NoSQL DB-Microservices
-username: 0a1046a5-3044-456b-98f4-1ba4ca2a49d2-bluemix
-password: 8ec3da7375cc6aeee3d97ed2aa10e98d1f17394115b0c3d2a6aeba1a52c45820
-host: https://0a1046a5-3044-456b-98f4-1ba4ca2a49d2-bluemix.cloudant.com
+#username: 0a1046a5-3044-456b-98f4-1ba4ca2a49d2-bluemix
+#password: 8ec3da7375cc6aeee3d97ed2aa10e98d1f17394115b0c3d2a6aeba1a52c45820
+#host: https://0a1046a5-3044-456b-98f4-1ba4ca2a49d2-bluemix.cloudant.com
